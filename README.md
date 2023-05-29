@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/MananShah"><img src="https://api.daily.dev/devcards/540b90cbc7ef46fda0a7cc539fde1d47.png?r=1kr" width="400" alt="Manan Shah's Dev Card"/></a>
 <!--
 **MananShah3654/MananShah3654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
